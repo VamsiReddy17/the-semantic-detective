@@ -1,0 +1,8 @@
+[
+  {
+    "step": "Query Embedding Generated",
+    "query_text": "I cannot log in after the latest app update. It says invalid credentials.",
+    "embedding_dimensions": 768,
+    "generated_at": "2025-09-20 17:11:40.657240+00:00"
+  }
+]

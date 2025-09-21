@@ -1,0 +1,9 @@
+[
+  {
+    "check_type": "Vector Index Check",
+    "index_name": "support_tickets_vector_index",
+    "description": "Vector index for semantic search",
+    "status": "Created for hackathon demo",
+    "checked_at": "2025-09-20 17:14:15.684687+00:00"
+  }
+]

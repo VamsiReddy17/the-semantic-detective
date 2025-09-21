@@ -1,0 +1,9 @@
+[
+  {
+    "response_type": "Response Type 1: Based on Existing Resolutions",
+    "suggested_response": "Hello there! I'm so sorry to hear that your app is crashing immediately after opening on your iPhone 15 Pro. That sounds incredibly frustrating, especially when you're trying to use an important application. Please know that we're here to help you get this resolved as quickly as possible.\n\nGiven that this is a high-priority issue and we've seen similar cases, let's work through some steps to get your app working again.\n\nHere's a step-by-step troubleshooting guide:\n\n1.  **Force Close the App:**\n    *   Swipe up from the bottom of your iPhone screen and pause in the middle to reveal the App Switcher.\n    *   Find the app that's crashing.\n    *   Swipe the app's preview card upwards and off the screen to force close it.\n    *   Wait a few seconds, then try opening the app again.\n\n2.  **Restart Your iPhone 15 Pro:**\n    *   Press and hold the **Side button** and",
+    "similar_tickets_used": 3,
+    "max_similarity_score": 0.6383823936497103,
+    "data_quality_note": "Based on existing (poor quality) resolutions"
+  }
+]

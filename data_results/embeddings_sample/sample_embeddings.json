@@ -1,0 +1,62 @@
+[
+  {
+    "data_type": "Embeddings Sample",
+    "ticket_id": 5042,
+    "subject": "Payment issue",
+    "description": "My Adobe Photoshop crashed, and I lost all the data stored on it. Is there any way to recover the lost data?\n\nhttps://github.com/wakk/recyclary.git/index. I've checked for any available software updates for my Adobe Photoshop, but there are none.",
+    "priority": "critical",
+    "status": "closed",
+    "embedding_dimensions": 768,
+    "first_dimension": -0.025036443024873734,
+    "second_dimension": -0.009147514589130878,
+    "third_dimension": -0.025503968819975853
+  },
+  {
+    "data_type": "Embeddings Sample",
+    "ticket_id": 1725,
+    "subject": "Network problem",
+    "description": "I'm having an issue with the Adobe Photoshop. Please assist.\n\n3.10.6.\n\n- Improved the search UI\n\n- Improved the message view as well\n\n- Tweaked the error message view I've checked the device settings and made sure that everything is configured correctly.",
+    "priority": "critical",
+    "status": "closed",
+    "embedding_dimensions": 768,
+    "first_dimension": -0.006351932883262634,
+    "second_dimension": 0.03745931386947632,
+    "third_dimension": -0.03354126214981079
+  },
+  {
+    "data_type": "Embeddings Sample",
+    "ticket_id": 877,
+    "subject": "Payment issue",
+    "description": "I'm having an issue with the Adobe Photoshop. Please assist.\n\n\"\n\n// http://www.dota2.com/support/viewtopic.php?f=14&t=4639&msg I'm using the original charger that came with my Adobe Photoshop, but it's not charging properly.",
+    "priority": "high",
+    "status": "closed",
+    "embedding_dimensions": 768,
+    "first_dimension": -0.02555851638317108,
+    "second_dimension": 0.007435412146151066,
+    "third_dimension": -0.049653559923172
+  },
+  {
+    "data_type": "Embeddings Sample",
+    "ticket_id": 2489,
+    "subject": "Battery life",
+    "description": "I'm having an issue with the Adobe Photoshop. Please assist. — Customer Support (@CustomerSupport) February 2, 2014\n\nSome of the other customers in the conversation told us they are seeing similar changes to the refund process. I'm not sure if this issue is specific to my device or if others have reported similar problems.",
+    "priority": "critical",
+    "status": "closed",
+    "embedding_dimensions": 768,
+    "first_dimension": -0.02563072368502617,
+    "second_dimension": -0.0006893238169141114,
+    "third_dimension": -0.04457870498299599
+  },
+  {
+    "data_type": "Embeddings Sample",
+    "ticket_id": 7983,
+    "subject": "Payment issue",
+    "description": "I'm facing a problem with my Adobe Photoshop. The Adobe Photoshop is not turning on. It was working fine until yesterday, but now it doesn't respond. But if you try any sort of other way I've checked for any available software updates for my Adobe Photoshop, but there are none.",
+    "priority": "critical",
+    "status": "closed",
+    "embedding_dimensions": 768,
+    "first_dimension": -0.01342016737908125,
+    "second_dimension": 0.0012932604877278209,
+    "third_dimension": -0.04026084765791893
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "step": "RAG Response Generated",
+    "generated_response": null,
+    "similar_tickets_used": 3,
+    "max_similarity_score": 0.73404559065496,
+    "generated_at": "2025-09-20 17:11:50.143662+00:00"
+  }
+]

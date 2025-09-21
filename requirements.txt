@@ -1,0 +1,37 @@
+# Semantic Detective - Python Dependencies
+# ======================================
+
+# Core Google Cloud and BigQuery
+google-cloud-bigquery==3.13.0
+google-cloud-storage==2.10.0
+google-cloud-aiplatform==1.38.1
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+db-dtypes==1.2.0
+
+# Kaggle Data Download
+kagglehub==0.2.7
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Jupyter Notebook Support
+jupyter==1.0.0
+ipykernel==6.25.2
+
+# Development Tools
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
+
+# Optional: For advanced data analysis
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Optional: For web interface (if needed)
+streamlit==1.28.1
+fastapi==0.104.1
+uvicorn==0.24.0

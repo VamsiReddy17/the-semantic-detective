@@ -1,0 +1,10 @@
+[
+  {
+    "analysis_type": "New Ticket Analysis",
+    "new_ticket_id": "NEW_001",
+    "new_ticket_subject": "App crashes immediately after opening",
+    "similar_tickets_found": 3,
+    "max_similarity_score": 0.6383823936497103,
+    "avg_similar_ticket_satisfaction": 2.0
+  }
+]

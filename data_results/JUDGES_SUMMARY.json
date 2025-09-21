@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "name": "The Semantic Detective",
+    "description": "AI-powered semantic search system for customer support tickets using BigQuery ML",
+    "generated_at": "2025-09-20T22:44:16.939014",
+    "total_queries_executed": 11,
+    "successful_queries": 11,
+    "failed_queries": 0
+  },
+  "results_summary": {
+    "semantic_search": {
+      "description": "Two methods of semantic search: manual cosine similarity and vector index search",
+      "files": [
+        "manual_cosine_similarity.json",
+        "vector_index_search.json"
+      ],
+      "status": "completed"
+    },
+    "gemini_rag": {
+      "description": "Retrieval-Augmented Generation system with query embedding, similar ticket retrieval, and AI response generation",
+      "files": [
+        "query_embedding.json",
+        "rag_response.json",
+        "similar_tickets.json"
+      ],
+      "status": "completed"
+    },
+    "new_ticket_flow": {
+      "description": "New ticket processing with dual response generation (RAG vs Pure AI)",
+      "files": [
+        "response_type_1.json",
+        "response_type_2.json",
+        "ticket_analysis.json"
+      ],
+      "status": "completed"
+    },
+    "missing_resolutions": {
+      "description": "AI-powered resolution generation for tickets with missing resolutions",
+      "files": [
+        "simple_resolution_generation.json"
+      ],
+      "status": "completed"
+    },
+    "vector_index": {
+      "description": "Vector index configuration and status information",
+      "files": [
+        "index_info.json"
+      ],
+      "status": "completed"
+    },
+    "embeddings_sample": {
+      "description": "Sample embeddings data for verification and analysis",
+      "files": [
+        "sample_embeddings.json"
+      ],
+      "status": "completed"
+    }
+  },
+  "technical_highlights": [
+    "Complete semantic search implementation with two methods",
+    "Advanced RAG system using BigQuery ML and Gemini",
+    "Dual response generation showing data quality impact",
+    "AI-powered resolution generation for missing data",
+    "Professional vector indexing for scalable search",
+    "Comprehensive similarity scoring and ranking"
+  ],
+  "data_quality_insights": [
+    "Demonstrates impact of poor data quality on AI responses",
+    "Shows comparison between RAG and pure AI approaches",
+    "Highlights importance of data quality in AI systems",
+    "Provides practical solutions for working with imperfect data"
+  ]
+}
